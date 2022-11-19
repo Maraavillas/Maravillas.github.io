@@ -1,0 +1,67 @@
+
+body {
+    overflow-x: auto;
+    background-color: #F6F6C9;
+    
+}
+.container {
+    width: 100%;
+    max-width: 122.5rem;
+    margin:  0 auto;
+    padding: 0 2.4rem;
+}
+
+.hero{
+
+    text-align: center;
+    width: 100%;
+    height: 35vh;
+    background: url("../banner2.jpg") center no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+}
+.h2-sub {
+    font-size: 3.5rem;
+    font-family: cursive, fantasy;
+    color: #ffff;
+    font-weight: 600;
+    line-height: .4;
+}
+.fil {
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+.text{
+
+    text-size-adjust: 600px;
+}
+
+.titulo{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 22px;
+}
+
+.hero2{
+
+    text-align: center;
+    width: 100%;
+    height: 40vh;
+    background: url("../banner6.webp") center no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+}
+
+.h3-sub {
+    font-size: 3.5rem;
+    font-family: cursive, fantasy;
+    color: #ffff;
+    font-weight: 600;
+    line-height: .4;
+}
